@@ -2,7 +2,7 @@
 
 # 💻 PwdrCLI
 
-Command-line interface for the [pwdr](https://www.npmjs.com/package/pwdr) npm package
+CLI for the [pwdr](https://www.npmjs.com/package/pwdr) npm package
 
 [![version](https://img.shields.io/npm/v/pwdr-cli?style=for-the-badge)](https://www.npmjs.com/package/pwdr-cli)
 [![license](https://img.shields.io/npm/l/pwdr-cli?style=for-the-badge)](https://github.com/Apollo917/pwdr-cli/blob/main/LICENSE)
@@ -38,5 +38,7 @@ npx pwdr-cli -p compatibility_check_phrase -k compatibility_check_key -l 32
 
 ### 🏷️ Versions
 
-- **v1.0.0**
-    - output: `1e9/wtB["D0NS/oCa/ra9p,v'NHBT4GQ`
+- **v1.x.x**
+    - result: `1e9/wtB["D0NS/oCa/ra9p,v'NHBT4GQ`
+- **v2.x.x**
+    - result: `Ey,7Lg#4Vp(9Dg^2Nm_3Rm@5Bv!5Zj^8`
