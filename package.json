@@ -2,9 +2,9 @@
   "name": "pwdr-cli",
   "author": "Apollo917",
   "homepage": "https://github.com/Apollo917/pwdr-cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
-  "description": "Command-line interface for the pwdr npm package",
+  "description": "CLI for the pwdr npm package",
   "maintainers": [
     {
       "name": "Apollo917",
@@ -54,6 +54,6 @@
   "dependencies": {
     "chalk": "^5.3.0",
     "commander": "^12.1.0",
-    "pwdr": "1.0.1"
+    "pwdr": "^2.0.0"
   }
 }
